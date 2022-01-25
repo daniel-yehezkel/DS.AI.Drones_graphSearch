@@ -3,7 +3,7 @@ import search
 import math
 import copy
 
-ids = ["315817783", "316597848"]
+ids = ["0", "0"]
 
 
 class QItem:
